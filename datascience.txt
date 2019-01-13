@@ -1,0 +1,5 @@
+Numpy for arrays
+matplotlib for visualization
+sckit_learn for machine learning 
+These are al packages available to use for you.
+pip is a package maintenance system of python
